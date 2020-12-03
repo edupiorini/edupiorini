@@ -7,7 +7,7 @@
 
 <p align="left">
   🦄 Skills: <img src = "./img/logojs.png"> 
-  <img src = "./img/logoTs.png">
+  <img src = "./img/logoTs.png" >
   <img src = "./img/logodart.png">
   <img src = "./img/logopython.png">
   <img src = "./img/logojava.png"> 

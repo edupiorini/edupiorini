@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <img src = "./img/logojs.png"> <strong>Javascript, TypeScript, Python, Dart, Java.</strong>
+  🦄 Skills: <img src = "./img/logojs.png"> <img src = "./img/logodart.png"><strong>Javascript, TypeScript, Python, Dart, Java.</strong>
 </p>
 
 <p align="left">

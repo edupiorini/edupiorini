@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fjavascript-23&psig=AOvVaw2g6J7deEIJ2MjyHUdrglKi&ust=1607080722190000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNihurDYse0CFQAAAAAdAAAAABAD" <strong>Javascript, TypeScript, Python, Dart, Java.</strong>
+  🦄 Skills: <img src = "https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" <strong>Javascript, TypeScript, Python, Dart, Java.</strong>
 </p>
 
 <p align="left">

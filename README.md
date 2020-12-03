@@ -9,6 +9,8 @@
   🦄 Skills: <img src = "./img/logojs.png"> 
   <img src = "./img/logoTsresized.png" >
   <img src = "./img/logodart.png">
+  <img src = "./img/logopythonresized.png">
+  <img src = "./img/logojavaresized.png"> 
   
   <strong>Javascript, TypeScript, Python, Dart, Java.</strong>
 </p>

@@ -6,13 +6,12 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <img src = "./img/logojs.png"> 
-  <img src = "./img/logoTsresized.png" >
-  <img src = "./img/logodart.png">
-  <img src = "./img/logopythonresized.png">
-  <img src = "./img/logojavaresized.png"> 
+  🦄 Skills: <strong>Javascript</strong><img src = "./img/logojs.png"> 
+  <strong>Typescript</strong><img src = "./img/logoTsresized.png" >
+  <strong>Dart</strong><img src = "./img/logodart.png">
+  <strong>Python</strong><img src = "./img/logopythonresized.png">
+  <strong>Java</strong><img src = "./img/logojavaresized.png"> 
   
-  <strong>Javascript, TypeScript, Python, Dart, Java.</strong>
 </p>
 
 <p align="left">

@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Tools: <strong>Node.JS, React, React Native, Docker, PostgreSQL </strong>
 </p>
 
 <p align="left">

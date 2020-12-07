@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💌 - profile in progress -: ⤵️
+  💌 Contact me: ⤵️
 </p>
 
   <a href="https://www.linkedin.com/in/eduardopiorini/" alt="Linkedin">

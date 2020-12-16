@@ -2,7 +2,7 @@
 
 <p align="left"> 
  I'm a dedicated professional, husband and father who does not imposes limits when it comes to   <strong>knowledge</strong>.<br>
-  Looking for a honest, humble and highly engaged professional? Contact me! 
+  Looking for a honest, qualified and highly engaged professional? Contact me! 
 </p>
 
 <p align="left">

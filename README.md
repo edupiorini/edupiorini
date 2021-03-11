@@ -15,7 +15,9 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Node.JS, React, React Native, Docker, PostgreSQL </strong>
+ 
+  💼 Main Stack: <h3>Flutter, ReactJS, Phoenix</h3>
+  Tools: <strong>Phoenix, Flutter, Node.JS, React, React Native, Docker, PostgreSQL </strong>
 </p>
 
 <p align="left">

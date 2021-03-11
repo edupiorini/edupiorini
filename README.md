@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
- 🦄 Skills: <strong>Elixir</strong>
+ 🦄 Skills: <strong>Elixir,</strong>
   <strong>Javascript</strong> 
   <strong>, Typescript</strong>
   <strong>, Dart</strong>

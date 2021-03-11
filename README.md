@@ -6,17 +6,17 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Javascript</strong><img src = "./img/logojs.png"> 
-  <strong>, Typescript</strong><img src = "./img/logoTsresized.png" >
-  <strong>, Dart</strong><img src = "./img/logodart.png">
-  <strong>, Python</strong><img src = "./img/logopythonresized.png">
-  <strong>, Java</strong><img src = "./img/logojavaresized.png"> 
+ 🦄 Skills: <strong>Elixir</strong>
+  <strong>Javascript</strong> 
+  <strong>, Typescript</strong>
+  <strong>, Dart</strong>
+  <strong>, Java</strong>
   
 </p>
 
 <p align="left">
  
-  💼 Main Stack: <h4>Flutter, ReactJS, Phoenix</h4>
+  💼 Main Stack: <h3>Flutter, ReactJS, Phoenix</h3>
   Tools: <strong>Phoenix, Flutter, Node.JS, React, React Native, Docker, PostgreSQL </strong>
 </p>
 

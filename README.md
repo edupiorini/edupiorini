@@ -9,15 +9,14 @@
  🦄 Skills: <strong>Elixir,</strong>
   <strong>Javascript</strong> 
   <strong>, Typescript</strong>
-  <strong>, Dart</strong>
   <strong>, Java</strong>
   
 </p>
 
 <p align="left">
  
-  💼 Main Stack: <h3>Flutter, ReactJS, Phoenix</h3>
-  Tools: <strong>Phoenix, Flutter, Node.JS, React, Docker, PostgreSQL </strong>
+  💼 Main Stack: <h3> Phoenix</h3>
+  Tools: <strong>Phoenix, Node.JS, Docker, PostgreSQL </strong>
 </p>
 
 <p align="left">

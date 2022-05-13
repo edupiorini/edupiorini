@@ -9,7 +9,7 @@
  🦄 Skills: <strong>Elixir,</strong>
   <strong>Javascript</strong> 
   <strong>, Typescript</strong>
-  <strong>, Java</strong>
+  
   
 </p>
 

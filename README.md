@@ -15,7 +15,7 @@
 
 <p align="left">
  
-  💼 Main Stack: <h3> Phoenix</h3>
+  💼 Main Stack: <h3>React + Node.JS</h3>
   Tools: <strong>Phoenix, Node.JS, Docker, PostgreSQL </strong>
 </p>
 

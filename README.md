@@ -6,8 +6,7 @@
 </p>
 
 <p align="left">
- 🦄 Skills: <strong>Elixir,</strong>
-  <strong>Javascript</strong> 
+ 🦄 Skills: <strong>Golang,</strong>
   <strong>, Typescript</strong>
   
   
@@ -15,8 +14,8 @@
 
 <p align="left">
  
-  💼 Main Stack: <h3>React + Node.JS</h3>
-  Tools: <strong>Phoenix, Node.JS, Docker, PostgreSQL </strong>
+  💼 Main Stack: <h3>React + Node.Js + Golang</h3>
+  Tools: <strong>Deno, Docker, PostgreSQL, MongoDB, Redis, Keycloak, GraphQL </strong>
 </p>
 
 <p align="left">

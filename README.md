@@ -1,33 +1,41 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 <p align="left"> 
- I'm a dedicated professional, husband and father who does not imposes limits when it comes to   <strong>knowledge</strong>.<br>
-  Looking for a honest, qualified and highly engaged professional? Contact me! 
+Software Engineer driven by passion for building scalable and performant web applications.
 </p>
 
 <p align="left">
- 🦄 Skills: <strong>Golang,</strong>
-  <strong>, Typescript</strong>
-  
-  
+🦄 Skills: 
+<strong>React</strong>, 
+<strong>Next.js</strong>, 
+<strong>TypeScript</strong>, 
+<strong>Node.js</strong>, 
+<strong>Golang</strong>
 </p>
 
 <p align="left">
- 
-  💼 Main Stack: <h3>React + Node.Js + Golang</h3>
-  Tools: <strong>Deno, Docker, PostgreSQL, MongoDB, Redis, Keycloak, GraphQL </strong>
+💼 Main Stack: <strong>React + Next.js + Node.js + Go</strong> <br>
+
+Tools: 
+<strong>TanStack Query, Tailwind CSS, Docker, PostgreSQL, MongoDB, Redis, GraphQL</strong>
 </p>
 
 <p align="left">
-  💌 Contact me: ⤵️
+⚡ Interests: 
+<strong>Frontend Architecture, Design Systems, Performance Optimization, Image-heavy Applications</strong>
 </p>
 
+<p align="left">
+💌 Contact me: ⤵️
+</p>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/eduardopiorini/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
   <a href="https://www.facebook.com/EduardoPiorini/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white"/></a>
 
   <a href="https://www.instagram.com/eduardopiorini/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>

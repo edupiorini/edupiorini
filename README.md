@@ -33,6 +33,7 @@ Tools:
   <a href="https://www.linkedin.com/in/eduardopiorini/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
-  <a href="https://www.instagram.com/eduardopiorini/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/></a>
+ <a href="mailto:edupiorini@gmail.com" alt="Email">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 </p>
